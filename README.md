@@ -1,2 +1,3 @@
-# brand
-HydePHP Brand Assets. Copyright HydePHP.
+# HydePHP Brand Assets
+
+Copyright HydePHP - All rights reserved
